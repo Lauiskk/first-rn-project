@@ -7,7 +7,7 @@ const MENU = [
         title: "Gomu Gomu",
         price: 45.9,
         description:
-          "O hambúrguer do queijo que estica! É a escola ideal para piratas que querem ser livres!",
+          "O hambúrguer do queijo que estica! É a escolha ideal para piratas que querem ser livres!",
         cover: require("../../assets/products/cover/1.png"),
         thumbnail: require("../../assets/products/thumbnail/1.png"),
         ingredients: [
@@ -25,10 +25,10 @@ const MENU = [
     data: [
       {
         id: "2",
-        title: "Ruivo",
+        title: "Rei das Feras",
         price: 35.9,
         description:
-          "Poder e sabor suficicentes para parar até uma guerra!",
+          "No burguer contra burguer, aposte sempre no rei das Feras!",
         cover: require("../../assets/products/cover/2.png"),
         thumbnail: require("../../assets/products/thumbnail/2.png"),
         ingredients: [
@@ -44,10 +44,10 @@ const MENU = [
       },
       {
         id: "3",
-        title: "Rei das Feras",
+        title: "Ruivo",
         price: 38.7,
         description:
-          "No burguer contra burguer, aposte sempre no rei das Feras!",
+          "Poder e sabor suficientes para parar até uma guerra!",
         cover: require("../../assets/products/cover/3.png"),
         thumbnail: require("../../assets/products/thumbnail/3.png"),
         ingredients: [
